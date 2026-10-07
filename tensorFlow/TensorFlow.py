@@ -38,3 +38,7 @@ def main(path):
 
 if __name__ == "__main__":
     main(sys.argv[1])
+
+
+# py -m pip install tensorflow
+# py -m pip install keras

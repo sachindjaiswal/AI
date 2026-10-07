@@ -38,3 +38,5 @@ matrix = confusion_matrix(y_test, y_pred)
 print(f"Accuracy : {accuracy}%")
 print("Classification Report\n", report)
 print("Confusion Matrix\n", matrix)
+
+# py -m pip install scikit-learn
